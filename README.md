@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Backend Engineer from indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codenoid" alt="codenoid" /> </p>
 
-- 🔭 I’m currently working on **-**
+- 🔭 I’m currently learning **AI & Machine Learning**
 
-- 👯 I’m looking to collaborate on **-**
+- 👯 I’m looking to collaborate on **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codenoid?tab=repositories](https://github.com/codenoid?tab=repositories)
 
