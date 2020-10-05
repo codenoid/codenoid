@@ -6,9 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codenoid?tab=repositories](https://github.com/codenoid?tab=repositories)
-
-- 📝 I regulary write articles on [codenoid.github.io](https://codenoid.github.io)
+- 📝 I barely write articles on [codenoid.github.io](https://codenoid.github.io)
 
 - 💬 Ask me about **Go, Flask, Python, MongoDB, Debian**
 
