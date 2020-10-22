@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Open Source**
-
 - 📝 I barely write articles on [codenoid.github.io](https://codenoid.github.io)
 
-- 💬 Ask me about **Go, Flask, Python, MongoDB, Debian**
+- 💬 Ask me about **Go, Flask, MongoDB**
 
 - 📫 How to reach me **[@codenoid_](https://twitter.com/codenoid_)** on twitter
 
