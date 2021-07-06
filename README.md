@@ -9,3 +9,6 @@
 - 💬 Ask me about **Go, Gin, Flask, MongoDB**
 
 Checkout my [youtube](https://www.youtube.com/channel/UCrIn4un3dFWEfPY0lz1dcQg), [asciinema](https://asciinema.org/~codenoid)
+
+[![bublegum](https://yt-embed.herokuapp.com/embed?v=RD_WjKf2DRQ)](https://www.youtube.com/watch?v=RD_WjKf2DRQ)
+
